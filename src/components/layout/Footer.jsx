@@ -18,13 +18,13 @@ const Footer = () => {
       <aside>
         <h4>Follow Us</h4>
 
-        <a href="https://youtube.com/6packprogrammer">
+        <a href="https://youtube.com/@shortx5580">
           <AiFillYoutube />
         </a>
-        <a href="https://instagram.com/meabhisingh">
+        <a href="https://www.instagram.com/the_khalique_nazeer/">
           <AiFillInstagram />
         </a>
-        <a href="https://github.com/meabhisingh">
+        <a href="https://github.com/Khalique48">
           <AiFillGithub />
         </a>
       </aside>
